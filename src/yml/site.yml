@@ -1,15 +1,13 @@
-name: 잡다한 일상과 개발 이야기
-title: 행중이 블로그
-description: 평범한 일상들과 개발을 하면서 느낀 점을 끄적여 보려 하는 블로그
+name: 잡다한 개발 이야기
+title: Jake's blog
+description: 개발을 하면서 느낀 점을 끄적여 보려 하는 블로그
 tags:
   - javascript
   - frontend
   - dev
-  - daily
   - 자바스크립트
   - 프론트엔드
   - 개발
-  - 일상
 show_hero: true
 menu:
   - title: Home
@@ -18,9 +16,7 @@ menu:
     url: '/category/til'
   - title: DEV
     url: '/category/dev'
-  - title: DAILY
-    url: /daily
   - title: ABOUT
     url: /about
 email: ykwan0714@gmail.com
-disqus_username: 행중이
+disqus_username: jake.lim
