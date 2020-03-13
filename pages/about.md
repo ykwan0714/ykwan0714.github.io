@@ -8,4 +8,4 @@ permalink: /about/
 
 # About
 
-ABCDEFG
+추후 업데이트 예정
