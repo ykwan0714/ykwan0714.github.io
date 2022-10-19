@@ -12,7 +12,7 @@ tags:
 author: jake
 paginate: false
 ---
->
+> 출처: [FEconf 2022 - TRACK B : 내 import 문이 그렇게 이상했나요?](https://www.youtube.com/watch?v=ajtpcFkXqqg&t=12124s)
 
 우리의 import 문은 왜 이상할까? 올바른 Import 문은 무엇인가?
 
@@ -30,8 +30,6 @@ paginate: false
 ```
 
 모듈 개념이 없던 Javascript에선 라이브러리를 사용하려면 스크립트 태그를 사용하였고, 해당 라이브러리가 전역 객체에 할당되어 사용할 수 있었다.
-
-
 
 # CommonJS 모듈 시스템
 
